@@ -1,2 +1,4 @@
 # Hola-mundo-en-HTML
-Cosas en html
+Probando como funciona HTML y "haciendo el tonto".
+
+Nada serio.
